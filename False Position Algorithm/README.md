@@ -9,8 +9,13 @@ This Matlab function contains four outputs. The first output is root which is th
 This algorithm won't work if the lower or upper guess is the actual root.
 ### Useful Information
 Example on how to use:
+
 clear
+
 clc
+
 syms x
+
 f(x)=x^2-5
+
 falsePosition(f,0,5,.0001,200)
