@@ -10,6 +10,7 @@ This Matlab function will only work when the input and output matrices have the 
 ### Useful Information
 If there is an odd number of intervals the trapezoidal rule will be used on the last interval.
 Example on how to use:
+
 clear
 
 clc
