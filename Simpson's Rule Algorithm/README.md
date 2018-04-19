@@ -11,7 +11,11 @@ This Matlab function will only work when the input and output matrices have the 
 If there is an odd number of intervals the trapezoidal rule will be used on the last interval.
 Example on how to use:
 clear
+
 clc
+
 x=[1 2 3 4 5 6]
+
 y=[1 4 9 16 25 36]
+
 Simpson(x,y)
