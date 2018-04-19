@@ -9,7 +9,11 @@ This Matlab function contains three outputs. The first output is L which is the 
 This algorithm can only run for symmetrical matrices meaning that the number of rows must equal the number of columns.
 ### Useful Information
 Example on how to use:
+
 clear
+
 clc
+
 A=[1 2 3; 4 5 6; 7 8 9]
+
 luFactor(A)
