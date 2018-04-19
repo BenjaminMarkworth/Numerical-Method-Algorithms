@@ -1,0 +1,2 @@
+# Numerical Methods Algorithms
+This repository contains numerical method algorithms developed in MatLab. The three algorithms found in this repository are a Lu Factorization algorithm, a false position algorithm, and a Simpson's 1/3 Rule algorithm.
